@@ -1,0 +1,9 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    background-color: #1d2430;
+}
+
+.brand {
+    margin: 1.5rem;
+}
